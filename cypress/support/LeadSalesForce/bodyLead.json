@@ -1,0 +1,18 @@
+{
+    "salesRepresentativeId": "0032300000aIGaOAAW",
+    "firstName": "LeadTest",
+    "lastName": "AUTOTest",
+    "phoneNumber": "5125550151",
+    "email": "autolead@email.com",
+    "addressLine1": "214 Barrow Dr",
+    "city": "Odessa",
+    "state": "TX",
+    "zipCode": "78701",
+    "utility": "2938473643",
+    "rooferNotes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud",
+    "isTimberlineSolarProductRequested": true,
+    "appointmentDate": null,
+    "bucketId": null,
+    "accessProgram": 1,   
+    "isInsideSalesRequested": null
+}
