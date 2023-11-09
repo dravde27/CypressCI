@@ -1,4 +1,4 @@
 node_modules/
-cypress/support/LeadSalesForce/*
+cypress/support/LeadSalesForce/leadId.json
 cypress/fixtures/*
 cypress/
